@@ -29,7 +29,7 @@
 
 Hi, I'm **vantuyen-dev/tuyendv** 😄,  a programmer 👨🏻‍💻 from Vietnam. My main job is AI / Machine Learning research and I also develop applications. Besides programming, I love reading and sports 🏃.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" />
 
 
   **Here we go**
